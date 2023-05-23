@@ -1,6 +1,6 @@
 For user:
 
-Open pychityschools_ljf.ipynb in Jupyter notebook and run as directed in notebook
+Open pycityschools_ljf.ipynb in Jupyter notebook and run as directed in notebook
 
 Citations:
 
